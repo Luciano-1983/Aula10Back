@@ -52,5 +52,5 @@ jobs:
         with:
           app-name: 'lucback'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_DB04C7D635F342F9AC49289142F3CA3C }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_5EB319F4C21E41DE84A010188DCD82A6 }}
           package: .
